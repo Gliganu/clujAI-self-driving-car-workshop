@@ -1,0 +1,1 @@
+model = load_model_from_json_and_weights("./best_weights.h5", "./model_architecture.json")

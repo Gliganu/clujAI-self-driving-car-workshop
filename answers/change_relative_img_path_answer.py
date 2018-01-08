@@ -1,0 +1,1 @@
+data_df.loc[:,"img_path"] = data_df.loc[:,"img_path"].apply(path_conversion)

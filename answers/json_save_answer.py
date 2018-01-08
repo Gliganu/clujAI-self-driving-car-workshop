@@ -1,0 +1,1 @@
+save_model_to_json(model, "./model_architecture.json")
